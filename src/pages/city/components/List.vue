@@ -70,7 +70,7 @@ export default {
       }
     }
   },
-  activated () {
+  updated () {
     this.scroll.refresh()
   },
   mounted () {
